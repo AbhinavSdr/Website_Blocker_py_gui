@@ -1,9 +1,7 @@
 # Website Blocker
-</p>
-<p align="center">
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)]()
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg?style=for-the-badge)](https://www.python.org/downloads/)
-</p>
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg?style=for-the-badge)]()
 ==================
 ## About
 
