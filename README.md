@@ -16,3 +16,5 @@ Python 3.4+
 Validators module
 ```
 ==================
+### New features will be added soon
++will be updated with more info
